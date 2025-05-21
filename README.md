@@ -1,12 +1,50 @@
-# React + Vite
+# Krish Ruparel's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, interactive 3D portfolio website showcasing my skills, projects, and experience. Built with React, Three.js, and Vite, this portfolio features a beautiful 3D animation scene with interactive elements.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🎨 Modern and responsive design
+- 🌐 Interactive 3D animated background
+- 📱 Fully responsive layout
+- 📊 Comprehensive skills showcase
+- 📚 Detailed project gallery
+- 📞 Contact form integration
+- 📱 Mobile-friendly navigation
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Three.js
+- Vite
+- Tailwind CSS
+- React Router
+- Framer Motion
+- HTML5/CSS3/JavaScript
+
+## Getting Started
+
+1. Clone the repository:
+```bash
+git clone [https://github.com/Krishr21/3d_portfolio.git](https://github.com/Krishr21/3d_portfolio.git)
+Install dependencies:
+bash
+CopyInsert in Terminal
+npm install
+Start the development server:
+bash
+CopyInsert in Terminal
+npm run dev
+Project Structure
+/src/components: Reusable UI components
+/src/pages: Main page components
+/src/assets: Images, icons, and 3D models
+/src/models: 3D scene components
+/src/constants: Configuration and data
+Contact
+Feel free to reach out to me at:
+
+LinkedIn: Krish Ruparel
+GitHub: Krishr21
+License
+This project is open source and available under the MIT License.
